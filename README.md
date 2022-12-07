@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedossalhe&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedossalhe&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ossalhe&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-ossalhe&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
