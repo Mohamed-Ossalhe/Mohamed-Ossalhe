@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=blue">
 <img src="https://img.shields.io/badge/-SQL-FF0000?style=flat&logo=sql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFF000">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-MVC-FFFFFF?style=flat&logo=mvc&logoColor=000FFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
