@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-jQuery-007ACC?style=flat&logo=jquery&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-AJAX-007ACC?style=flat&logo=ajax&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=blue">
 <img src="https://img.shields.io/badge/-SQL-FF0000?style=flat&logo=sql&logoColor=FFFFFF">
