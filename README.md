@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-MVC-FFFFFF?style=flat&logo=mvc&logoColor=000FFF">
+<img src="http://img.shields.io/badge/-UML-000000?style=flat&logo=uml&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-0062ff?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
