@@ -11,21 +11,7 @@ You can click the Preview link to take a look at your changes.
 - :telescope: I’m currently working on <strong>Html, Css, Sass, Bootstrap, Tailwind, JavaScript, jQuery, Ajax, PHP and SQL/MySQL.</strong>
 
 ### 💻 Tech & Tools Preference
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Tailwind CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-jQuery-007ACC?style=flat&logo=jquery&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=blue">
-<img src="https://img.shields.io/badge/-SQL-FF0000?style=flat&logo=sql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-MVC-FFFFFF?style=flat&logo=mvc&logoColor=000FFF">
-<img src="http://img.shields.io/badge/-UML-000000?style=flat&logo=uml&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-0062ff?style=flat&logo=visual%20studio%20code&logoColor=white">
+[![My Skills](https://skills.thijs.gg/icons?i=java,ts,js,php,laravel,mysql,postgresql,react,flutter,nodejs,expressjs,mongodb,bootstrap,html,css)](https://skills.thijs.gg)
 
 
 <p align="center">
