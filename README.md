@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - :telescope: I’m currently working on <strong>Html, Css, Sass, Bootstrap, Tailwind, JavaScript, jQuery, Ajax, PHP and SQL/MySQL.</strong>
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skills.thijs.gg/icons?i=java,ts,js,php,laravel,mysql,postgresql,react,flutter,nodejs,expressjs,mongodb,bootstrap,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,bootstrap,mysql,sql,tailwind,mvc,uml)](https://skills.thijs.gg)
 
 
 <p align="center">
