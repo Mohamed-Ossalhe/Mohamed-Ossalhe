@@ -8,7 +8,7 @@
 Mohamed-Ossalhe/Mohamed-Ossalhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- :telescope: I’m currently working on <strong>Html, Css, Sass, Bootstrap, Tailwind, JavaScript, React.js, Vue.js, jQuery, Ajax, PHP, Python, Laravel, Django and SQL/MySQL.</strong>
+- :telescope: I’m currently working on <strong>Java, Spring Boot and Angular</strong>
 
 ### 💻 Tech & Tools Preference
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,sass,js,ts,angular,react,nextjs,vue,vite,java,php,python,laravel,django,express,nodejs,inertia,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd)](https://skills.thijs.gg)
