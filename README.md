@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - :telescope: I’m currently working on <strong>Java, Spring Boot and Angular</strong>
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nextjs,vue,vite,rxjs,ngrx,java,php,python,spring,laravel,django,express,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nextjs,vue,vite,rxjs,redux,java,php,python,spring,laravel,django,express,nodejs,postgresql,bootstrap,mysql,tailwind,vscode,wordpress,git,github,selenium,postman,figma,xd&perline=6&theme=light)](https://skillicons.dev)
 
 
 <p align="center">
